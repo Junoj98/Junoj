@@ -1,2 +1,3 @@
-# Junoj
-About myself 
+# covid
+Pandemic disease 
+
